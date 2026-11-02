@@ -99,7 +99,7 @@ Im finalen Schritt folgte das UI/UX-Redesign: Weg von unruhigen Gitternetzlinien
 ## 📂 Repository-Struktur
 
 ```text
-├── power_bi/
+├── Power_bi/
 │   └── global_sales_performance.pbix # Finales Power BI Dashboard
 ├── Pictures/
 │   ├── sql-table-structure-profiling.png
